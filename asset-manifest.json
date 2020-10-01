@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2be2fb2.chunk.css",
-    "main.js": "/static/js/main.f386bc09.chunk.js",
-    "main.js.map": "/static/js/main.f386bc09.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.451dc41f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.451dc41f.js.map",
-    "static/js/2.78f62b35.chunk.js": "/static/js/2.78f62b35.chunk.js",
-    "static/js/2.78f62b35.chunk.js.map": "/static/js/2.78f62b35.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c2c5a95b578a0e99547a1ec535a30daa.js": "/precache-manifest.c2c5a95b578a0e99547a1ec535a30daa.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e2be2fb2.chunk.css.map": "/static/css/main.e2be2fb2.chunk.css.map",
-    "static/js/2.78f62b35.chunk.js.LICENSE.txt": "/static/js/2.78f62b35.chunk.js.LICENSE.txt"
+    "main.css": "https://monikmakwana.github.io/SearchApp/static/css/main.e2be2fb2.chunk.css",
+    "main.js": "https://monikmakwana.github.io/SearchApp/static/js/main.f386bc09.chunk.js",
+    "main.js.map": "https://monikmakwana.github.io/SearchApp/static/js/main.f386bc09.chunk.js.map",
+    "runtime-main.js": "https://monikmakwana.github.io/SearchApp/static/js/runtime-main.dbfd7029.js",
+    "runtime-main.js.map": "https://monikmakwana.github.io/SearchApp/static/js/runtime-main.dbfd7029.js.map",
+    "static/js/2.78f62b35.chunk.js": "https://monikmakwana.github.io/SearchApp/static/js/2.78f62b35.chunk.js",
+    "static/js/2.78f62b35.chunk.js.map": "https://monikmakwana.github.io/SearchApp/static/js/2.78f62b35.chunk.js.map",
+    "index.html": "https://monikmakwana.github.io/SearchApp/index.html",
+    "precache-manifest.297a5f571dec0fe00ed9cbc7deea6f19.js": "https://monikmakwana.github.io/SearchApp/precache-manifest.297a5f571dec0fe00ed9cbc7deea6f19.js",
+    "service-worker.js": "https://monikmakwana.github.io/SearchApp/service-worker.js",
+    "static/css/main.e2be2fb2.chunk.css.map": "https://monikmakwana.github.io/SearchApp/static/css/main.e2be2fb2.chunk.css.map",
+    "static/js/2.78f62b35.chunk.js.LICENSE.txt": "https://monikmakwana.github.io/SearchApp/static/js/2.78f62b35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.451dc41f.js",
+    "static/js/runtime-main.dbfd7029.js",
     "static/js/2.78f62b35.chunk.js",
     "static/css/main.e2be2fb2.chunk.css",
     "static/js/main.f386bc09.chunk.js"
