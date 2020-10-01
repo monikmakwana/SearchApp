@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,aACF,CACA,MACE,aAAc,CACd,UAAW,CACX,YAAa,CACb,cAAe,CACf,sBACF","file":"main.e2be2fb2.chunk.css","sourcesContent":[".gif {\n  padding: 0 2px;\n}\n.gifs {\n  margin: 0 auto;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n}"]}
